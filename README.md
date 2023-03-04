@@ -1,4 +1,5 @@
 
+
 ![Logo](https://github.com/rejoice03/BellaBeat/blob/main/bellabeat%20logo.png?raw=true)
 
 
@@ -15,6 +16,9 @@ For this case study, I will focus on the Bellabeat membership program. This is a
 ## DATA SOURCE
 - The data is a free to use **FitBit** Fitness tracker dataset made available through Mobius. It contains personal fitness tracker data from over thirty FitBit users who have given consent to use their data.
 - There are 18 csv files in all, but the datasets I find relevant to the product I want to focus on are daily activity, hourly calories, hourly steps, and sleep day dataset.
+## FINISHED PROJECT
+**Here is my project programme code**: You can view my programme code on GitHub used for data 
+analysis. Python code [**click here**](https://github.com/rejoice03/BellaBeat/blob/main/bellabeat%20Python%20Code.ipynb), the code for SQL [**click here**](https://github.com/rejoice03/BellaBeat/blob/main/bellabeat%20SQL%20Code.sql) and Tableau [**click here**](https://public.tableau.com/app/profile/rejoice.raju/viz/bellabeat_16777572743750/CaloriesBurntByTotalSteps).
 ### bellabeat Dashboard
 
 ![bellabeat Dashboard](https://github.com/rejoice03/BellaBeat/blob/main/Tableau/Dashboard%201%20(2).png?raw=true)
@@ -57,4 +61,6 @@ For this case study, I will focus on the Bellabeat membership program. This is a
 2. **Retention**: The objective of any membership program is not limited to generating a regular stream of new members. Retention is crucial! According to an online report, eighty percent of customers quit their subscription to a member site within the first two years of joining the site. For Bellabeat to retain its consumers, it must focus on personalized contents that offer value. For instance, the data revealed a positive correlation between the number of steps walked and the number of calories burnt. The more steps a person takes each day, the more calories they burn.
 - The data also revealed that one of the issues people have is that they are hardly able to reach the minimum 10,000 steps per day recommended for healthy adults. To address this issue, Bellabeat can provide fascinating tips to assist its consumers achieve their daily objectives. This may be published periodically on its website. Additionally, it can create engaging challenges to motivate its users to walk regularly. This will not only drive engagement, but also provide enormous value to them.
 - I also noted that people spend far more time being inactive than being active. Inactivity is related with several health problems, including obesity, heart disease, stroke, etc. Bellabeat can create explainer videos and blogs to educate its users about the negative impacts of sedentary lifestyle and how to prevent them. This is also a fantastic opportunity to promote its other products, such as the Bellabeat app, which provides users with lifestyle-related health data, and Time, which links to the Bellabeat app to offer users with insights on their daily wellbeing.
+
+
 
